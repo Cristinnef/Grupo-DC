@@ -25,5 +25,6 @@ En tanto a la base de datos inicial, tenemos por ahora dos tablas que muestran e
 Finalmente, adjuntamos nuestro análisis sobre la relevancia de estre proyecto
 
 [Análisis de Cristinne](https://github.com/Cristinnef/Grupo-DC/files/12435323/Analisis.critico.personal.pdf)
+[Análisis de Catalina](https://github.com/Cristinnef/Grupo-DC/files/12435338/Relevancia.personal.Catalina.pdf)
 
 
