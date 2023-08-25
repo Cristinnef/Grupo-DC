@@ -11,3 +11,4 @@ Nuestra hipótesis sería:
 
 ### Dejamos esto más explicado en nuestro video:
 [Video de puntos principales de nuestro proyecto](https://youtu.be/z7BGfU2nra8)
+[Presentación.pdf](https://github.com/Cristinnef/Grupo-DC/files/12435257/Presentacion.pdf)
