@@ -19,9 +19,11 @@ Nuestra hipótesis sería:
 [Propuesta de investigación.pdf](https://github.com/Cristinnef/Grupo-DC/files/12435285/Propuesta.de.investigacion.pdf)
 
 En tanto a la base de datos inicial, tenemos por ahora dos tablas que muestran el historial de votaciones de diputados y senadores de la DC entre 1961 y 2021. Esta es nuestra base inicial para mostrar cómo la DC ha perdido influencia
+
 [Link a Biblioteca del Congreso Nacional de Chile](https://www.bcn.cl/historiapolitica/partidos_politicos/wiki/Partido_Dem%C3%B3crata_Cristiano)
 
 Finalmente, adjuntamos nuestro análisis sobre la relevancia de estre proyecto
+
 [Análisis de Cristinne](https://github.com/Cristinnef/Grupo-DC/files/12435323/Analisis.critico.personal.pdf)
 
 
