@@ -28,4 +28,7 @@ Finalmente, adjuntamos nuestro análisis sobre la relevancia de estre proyecto
 
 [Análisis de Catalina](https://github.com/Cristinnef/Grupo-DC/files/12435338/Relevancia.personal.Catalina.pdf)
 
+[Análisis de Matíasl matias torres.pdf](https://github.com/Cristinnef/Grupo-DC/files/12435342/analisis.critico.personal.matias.torres.pdf)
+
+
 
