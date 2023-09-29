@@ -1,11 +1,14 @@
-# Encargo 2
+#  Encargo 2
 
 
-Para obtener mi tabla utilicé datos de [Biblioteca del Congreso Nacional de Chile](https://www.bcn.cl/historiapolitica/partidos_politicos/wiki/Partido_Dem%C3%B3crata_Cristiano) y de [Wikipedia](https://es.wikipedia.org/wiki/Partido_Dem%C3%B3crata_Cristiano_(Chile))
+Saqué mis datos de:
 
-Elegì estos datos porque creo que son representativos para mostrar que la DC antes tenìa mucha participación em Cámara, es decir, tenía influencia política, y al pasar de los años ha ido descendiendo. Es una clara muestra de la crisis de la DC y de cómo ha perdido influencia.
+[Qué meimbros partidos políticos ingresó su declaracióon de asunción al cargo] (https://www.infoprobidad.cl/Reporte/DetalleDatosHome?Autoridad=partidos&Tipo=As)
 
-Algunas preguntas que la tabla podrìa responder son:
-1. ¿Cómo ha variado la elecciòn de diputados y senadores en la Democracia Cristiana?
-1. ¿Cómo ha evolucionado la participación de militantes DC en la Cámara?
-1. ¿En qué años tuvieron su mejor y peor presencia en la Cámara?
+Con estos datos, podríamos responder las siguientes preguntas:
+
+1. ¿Qué miembros de la Democracia Cristiana ingresaron su declaración de asunción al cargo?
+
+2. ¿En qué años dichos miembros ingresaron su declaración de asunción al cargo?
+
+3. Separar la institución política a la que pertenecen del resto.
