@@ -3,7 +3,7 @@
 
 Saqué mis datos de:
 
-[Qué meimbros partidos políticos ingresó su declaracióon de asunción al cargo] (https://www.infoprobidad.cl/Reporte/DetalleDatosHome?Autoridad=partidos&Tipo=As)
+[Qué meimbros partidos políticos ingresó su declaracióon de asunción al cargo](https://www.infoprobidad.cl/Reporte/DetalleDatosHome?Autoridad=partidos&Tipo=As)
 
 Con estos datos, podríamos responder las siguientes preguntas:
 
