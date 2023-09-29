@@ -1,13 +1,13 @@
 # Características Datos
-Las tablas nos muestran cómo ha variado el número de Diputados y Senadores electos a lo largo de los años. Podemos ver en la tabla los años, el número de Diputados/Senadores y el porcentaje de votos de la totalidad que obtuvieron. Eliminé los números de votos en sí porque con los porcentajes quedaba redundante
+Los datos enseñan las declaraciones de asunción de distintos miembros de la Democracia Cristiana. Esto se refiere al momento en que una persona asumió un determinado cargo o puesto en el partido. Ademnás, se incluye el año en que sucedió.
 
 # Alcance metodológico
-La tabla es una prueba concisa de que la influencia de la DC ha disminuído considerablemente a través de los años. Es una prueba empírica
+Demostrar los años en que determinados miembros de la Democracia Cristiana asumieron su cargo, considerando esta variación a través de los años.
 
 # Variables incorporadas
-1. Años en los que se eligieron los Diputados y Senadores
-2. Número de Diputados y Senadores que salieron electos
-3. Porcentaje de votos que sacaron con respecto a la totalidad
+1. Años en que miembros de la Democracia Cristiana ingresaron su declaración de asunción al cargo.
+2. Nombres de estos miembros.
+3. Apellidos de estos miembros. 
 
 # Observaciones
-Podemos ver como a través de los años efectivamente el número de Diputados y Senadores ha bajado considerablemente, por lo que podemos concluir que su influencia se ha visto afectada ya que no han tenido tanto quorum para participar directamente en decisiones políticos
+Las fechas de declaraciones de asunción de los miembros políticos de la Democracia Cristiana, según datos de probidad, datan desde 2017.
