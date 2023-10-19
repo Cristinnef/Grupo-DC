@@ -1,6 +1,9 @@
 # Proceso de cración de marca, user pesona y wireframes
 En primer lugar, nosotros hicimos los user persona con sus respectivos customer journals en la app Miro, para poder trabajar juntos en él. Puedes acceder a este trabajo haciendo [click aquí](https://miro.com/app/board/uXjVNYrMS4I=/?share_link_id=632501105089)
 
+# Video de la presentación
+Revisa nuestro video [aqui](https://youtu.be/4t4xV4GlQxM)
+
 ## User persona
 Nosotros primero pensamos en personas universitarias pero nos dimos cuenta que esto era acotado ya que otros jóvenes podrían interesarse en el tema. Pensamos entonces en escolares, y de este modo pudimos crear 3 user persona: uno de enseñanza básica, otro de media y una universitaria
 
