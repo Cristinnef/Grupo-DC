@@ -1,8 +1,5 @@
 # Análisis personal
 
-Este trabajo me sirvió para acercarme más a mis amigas, son grandes personas 
-
-
 Aprendizajes: 
 P: ¿Qué elementos y desafíos fueron los más importantes para crear el wireframe? 
 R: Saber con qué clase de contenidos contamos y, mientras los preparamos, ser capaces de imaginar cómo se verá visualmente. Es un trabajo en "paralelo". Intentamos trabajar con Wireframem pero usamos Canva porque es más sencillo.
