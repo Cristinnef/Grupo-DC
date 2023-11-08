@@ -1,0 +1,4 @@
+# Historia a contar
+Nosotros queremos en parte poner en evidencia el decenso que ha tenido la DC en poder e influencia en la política chilena para luego centrarnos en la emergencia de nuevos partidos políticos de centro izquierda que prometen reemplazar al partido que antes era de los más poderosos.
+Los gráficos presentados nos ayudan a visualizar rápidamente cómo el partido ha perdido influencia puesto que cada año el número de Senadores y Diputados electos ha disminuído, lo que significa que tienen menos voz en la Cámara y por tanto no pueden incidir en las decisiones políticas que se tomen por sí solos (necesitan el apoyo de otras fuerzas políticas, ya que tienen muy pocos electos) 
+De este modo, esta es la prueba empírica de que la Democracia Cristiana ya está casi muerta y ya no tiene ninguna influencia a nivel político.
