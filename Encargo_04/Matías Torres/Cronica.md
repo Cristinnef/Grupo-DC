@@ -1,0 +1,3 @@
+# Historia a contar
+
+Como grupo, pretendemos mostrar el descenso de poder en la política chilena de la Democracia Cristiana. Una de las cosas que consideramos necesarias era demostrar las declaraciones de asunción al cargo de distintos miembtos de dicho partido. En la limpieza de datos, se incluían los nombres de estas personas. Sin embargo, para esta ocasión, haremos un registro cuantitativo de la cantidad por año de estas declaraciones. Se consideraron las cifras extraídas desde probidad.
