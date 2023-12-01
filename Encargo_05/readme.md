@@ -9,4 +9,4 @@ Cuando nos percatamos de estos fenómeno, comenzamos a indagar un poco más sobr
 Teniendo en cuenta estos antecedentes, fue necesario fijarnos en el flujo de afiliados de todos los partidos políticos de Chile. Llegamos a la conclusiónq que para analizar cómo se reacomoda el nuevo centro político chileno, es necesario tener un amplio panorama de todas las fuerzas políticas, independiente de su color político.
 
 Nuestra presentación la puedes ver aqui [crisis de la dc.pdf](https://github.com/Cristinnef/Grupo-DC/files/13520715/crisis.de.la.dc.pdf)
-
+Nuestra página web la puedes revisar aqui [PAGINA WEB](Cristinnef.github.io)
