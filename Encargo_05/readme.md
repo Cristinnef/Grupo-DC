@@ -11,7 +11,5 @@ Teniendo en cuenta estos antecedentes, fue necesario fijarnos en el flujo de afi
 Nuestra presentación la puedes ver aqui [crisis de la dc.pdf](https://github.com/Cristinnef/Grupo-DC/files/13520715/crisis.de.la.dc.pdf)
 
 Nuestra página web la puedes revisar en "Cristinnef.github.io"
- [aqui](cristinnef.github.io)
-
 
 Nuestro video lo puedes ver haciendo click [aqui](https://www.youtube.com/watch?v=9fjGQiKQAgg&ab_channel=CristinneFrancois)
