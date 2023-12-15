@@ -1,0 +1,211 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mi Página Web</title>
+    <link href="https://fonts.googleapis.com/css2?family=Droid+Serif:wght@400&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Bebas+Neue:wght@400&display=swap" rel="stylesheet">
+    <link rel="icon" type="image/x-icon" href="aaa.png">
+    <style>
+        body {
+            font-family: 'Bebas Neue', sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #F4F1E9;
+            color: #000000;
+            display: flex;
+            flex-direction: column;
+        }
+
+        header {
+            background-color: #0D5BA1;
+            padding: 10px;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+        }
+
+        header h1 {
+            color: #F4F1E9;
+            margin: 0;
+            font-family: 'Droid Serif', serif;
+        }
+
+        nav {
+            display: flex;
+        }
+
+        nav a {
+            color: #F4F1E9;
+            text-decoration: none;
+            margin-right: 20px;
+            font-family: 'Droid Serif', serif;
+        }
+
+        .contenedor {
+            display: flex;
+            flex-wrap: wrap;
+        }
+
+        .columna {
+            flex: 1;
+            padding: 20px;
+            font-family: 'Droid Serif', serif;
+            margin: 10px;
+            position: relative;
+        }
+
+        #titulo {
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            margin-bottom: 20px;
+        }
+
+        #Logo {
+            max-width: 100%;
+            height: auto;
+            margin-bottom: 20px;
+            display: block;
+            margin-left: 450px;
+        }
+
+        #grafico {
+            margin-top: 20px;
+        }
+
+        #descripciongrafico {
+            margin-top: 20px;
+        }
+
+        #segundaColumna {
+            margin-top: 40px;
+            margin-left: 20px;
+        }
+
+        #Introduccion {
+            margin-top: 263px;
+            line-height: 2;
+            text-align: justify;
+            font-size: 20px;
+        }
+
+        #graficoSegundaColumna {
+            margin-top: 20px;
+        }
+
+        
+        #FondoHipotesis {
+            background-color: #CDDCEB;
+            padding: 20px;
+            margin-top: 20px;
+        }
+
+        #Hipotesis {
+            margin-top: 20px;
+        }
+
+        #textoHipotesis {
+            margin-top: 20px;
+            line-height: 1.5;
+            text-align: justify;
+            font-size: 20px;
+        }
+
+        .cuadro-container {
+            display: flex;
+            justify-content: center; 
+            margin-top: 20px;
+            margin-bottom: 40px;
+        }
+
+        .cuadro {
+            width: 500px;
+            height: 250px;
+            margin-right: 20px;
+            text-align: center;
+            line-height: 100px;
+            color: white;
+            background-size: cover;
+            background-position: center;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+        }
+
+        .cuadro a {
+            text-decoration: none;
+            color: white;
+            width: 100%;
+            height: 100%;
+            display: block;
+        }
+
+        .cuadro:nth-child(1) {
+            background-image: url('pdc (1).png');
+        }
+
+        .cuadro:nth-child(2) {
+            background-image: url('logos centro.png');
+        }
+
+        .cuadro:nth-child(3) {
+            background-image: url('partidos politicos.png');
+        }
+    </style>
+</head>
+
+<body>
+
+    <header>
+        <h1>Inicio</h1>
+        <nav>
+            <a href="Nuestro equipo.html">Nuestro equipo</a>
+            <a href="COMENTARIOS.html">Comentarios</a>
+            <a href="referencias.html">Referencias</a>
+        </nav>
+        <input type="text" placeholder="Buscar..." />
+    </header>
+
+    <div class="contenedor">
+        <div class="columna">
+            <div id="titulo">
+                <img id="Logo" src="logogrande.png" alt="titulo">
+            </div>
+            <div id="grafico">
+                <div class="flourish-embed flourish-chart" data-src="visualisation/15948298"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+            </div>
+            <div id="descripciongrafico">
+                <p>Una forma de ver la pérdida de influencia de la DC es ver cómo han disminuido el número de senadores y diputados DC a lo largo de los años.</p>
+            </div>
+        </div>
+
+        <div class="columna" id="segundaColumna">
+            <p id="Introduccion">
+                El partido Demócrata Cristiano fue fundado en 1957 por el ex presidente Eduardo Frei Montalva mediante la fusión de la Falange Nacional, Partido Conservador Social Cristiano, Partido Nacional Cristiano y otras agrupaciones independientes. Cuando la dictadura militar de Augusto Pinochet finalizó en Chile en 1990, empezó la época dorada de la DC en donde en algún momento se volvió el partido con más afiliados de Chile. El partido, de ideología centro-izquierda, desde el 2010 comenzó a tener profundas crisis internas y externas que lo llevaron a una rápida pérdida de influencia en la política chilena, muy similar a lo que está ocurriendo con el Partido Radical. Nuestro objetivo es revisar los antecedentes que llevaron a la DC a tener este declive, considerando además la formación de nuevos partidos que tienen la centro izquierda en la mira como Amarillos y Demócratas y, tomando el caso de la DC, poder finalmente revisar si se trata de una crisis de la DC o de una crisis de representación política de los partidos tradicionales los cuales están siendo amenazados por los nuevos.
+            </p>
+
+            <div id="FondoHipotesis">
+                <h3 id="Hipotesis">Nuestra hipótesis</h3>
+                <p id="textoHipotesis">La DC no solo tuvo un declive por las crisis internas y externas como partido, sino que es un caso inmerso en un problema mucho mayor como lo es la crisis de representación de partidos tradicionales hoy en día.</p>
+            </div>
+        </div>
+    </div>
+
+    <div class="cuadro-container">
+        <div class="cuadro">
+            <a href="pagina 1.html">La Democracia Cristiana</a>
+        </div>
+        <div class="cuadro">
+            <a href="pagina 2.html">Nuevos partidos de centro</a>
+        </div>
+        <div class="cuadro">
+            <a href="pagina 3.html">Crisis de Representación</a>
+        </div>
+    </div>
+
+</body>
+
+</html>
