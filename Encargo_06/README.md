@@ -21,6 +21,8 @@ Redacción: Matías Torres y Cristinne Francois
 
 Búsqueda de imágenes: Matías Torres, Cristinne Francois y Catalina Rojas 
 
+Búsqueda de información: Matías Torres, Cristinne Francois y Catalina Rojas
+
 Estructuración de la historia: Matías Torres, Cristinne Francois y Catalina Rojas 
 
 ## NUESTRA PÁGINA
