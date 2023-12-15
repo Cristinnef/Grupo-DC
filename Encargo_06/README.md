@@ -23,7 +23,8 @@ Búsqueda de imágenes: Matías Torres, Cristinne Francois y Catalina Rojas
 
 Estructuración de la historia: Matías Torres, Cristinne Francois y Catalina Rojas 
 
+## NUESTRA PÁGINA
 
-
+Para acceder a nuestra página, haz click aquí: [El camino de un nuevo equilibrio: crisis de la Democracia Cristiana](https://cristinnef.github.io/)
 
 
