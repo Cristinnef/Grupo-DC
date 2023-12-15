@@ -14,9 +14,13 @@ Lo que más destacamos es que creamos una páginas "en tres pasos" gracias a los
 ## PONDERADOR DE AUTORÍA
 
 Creación de la página (en código): Cristinne Francois y Catalina Rojas 
+
 Generación de gráficos: Matías Torres, Cristinne Francois y Catalina Rojas
+
 Redacción: Matías Torres y Cristinne Francois
+
 Búsqueda de imágenes: Matías Torres, Cristinne Francois y Catalina Rojas 
+
 Estructuración de la historia: Matías Torres, Cristinne Francois y Catalina Rojas 
 
 
